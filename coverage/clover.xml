@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1635448542160" clover="3.2.0">
-  <project timestamp="1635448542160" name="All files">
-    <metrics statements="12" coveredstatements="10" conditionals="4" coveredconditionals="2" methods="2" coveredmethods="1" elements="18" coveredelements="13" complexity="0" loc="12" ncloc="12" packages="4" files="4" classes="4"/>
+<coverage generated="1635449359254" clover="3.2.0">
+  <project timestamp="1635449359254" name="All files">
+    <metrics statements="13" coveredstatements="12" conditionals="4" coveredconditionals="2" methods="2" coveredmethods="2" elements="19" coveredelements="16" complexity="0" loc="13" ncloc="13" packages="4" files="4" classes="4"/>
     <package name="nodeJest">
-      <metrics statements="7" coveredstatements="6" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <metrics statements="8" coveredstatements="7" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
       <file name="index.js" path="/Users/sergiojavierre/Desktop/nodeJest/index.js">
-        <metrics statements="7" coveredstatements="6" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <metrics statements="8" coveredstatements="7" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
         <line num="5" count="1" type="stmt"/>
         <line num="7" count="1" type="stmt"/>
-        <line num="8" count="1" type="cond" truecount="1" falsecount="1"/>
-        <line num="12" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="1" type="cond" truecount="1" falsecount="1"/>
         <line num="14" count="1" type="stmt"/>
-        <line num="15" count="1" type="cond" truecount="1" falsecount="1"/>
-        <line num="16" count="0" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="18" count="0" type="stmt"/>
       </file>
     </package>
     <package name="nodeJest.controllers">
-      <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="caramelos.controller.js" path="/Users/sergiojavierre/Desktop/nodeJest/controllers/caramelos.controller.js">
-        <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="3" count="1" type="stmt"/>
-        <line num="4" count="0" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
       </file>
     </package>
     <package name="nodeJest.data">
